@@ -9,9 +9,9 @@
       "spanish": "A page for all actual anime news on spanish."
     },
     "service": "SomosKudasai",
-    "version": "0.0.1",
-    "logo": "thumb.png",
-    "thumbnail": "thumb.png",
+    "version": "0.0.2",
+    "logo": "thumb",
+    "thumbnail": "thumb",
     "color": "#AD00FF",
     "tags": [],
     "category": "anime"
